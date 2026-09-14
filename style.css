@@ -40,3 +40,21 @@ nav a{
     border-radius:8px;
     width:180px;
 }
+form{
+    display:flex;
+    flex-direction:column;
+    max-width:400px;
+    gap:10px;
+}
+
+input,
+textarea{
+    padding:10px;
+}
+
+button{
+    background:#2563eb;
+    color:white;
+    border:none;
+    padding:10px;
+}
