@@ -29,3 +29,14 @@ nav a{
     text-decoration:none;
     margin:0 10px;
 }
+.produtos{
+    display:flex;
+    gap:20px;
+}
+
+.card{
+    background:white;
+    padding:20px;
+    border-radius:8px;
+    width:180px;
+}
